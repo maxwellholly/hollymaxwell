@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hollymaxwell/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/hollymaxwell/static/js/main.987b554a.chunk.js",
+    "main.js.map": "/hollymaxwell/static/js/main.987b554a.chunk.js.map",
+    "runtime-main.js": "/hollymaxwell/static/js/runtime-main.f0411063.js",
+    "runtime-main.js.map": "/hollymaxwell/static/js/runtime-main.f0411063.js.map",
+    "static/js/2.b31e6743.chunk.js": "/hollymaxwell/static/js/2.b31e6743.chunk.js",
+    "static/js/2.b31e6743.chunk.js.map": "/hollymaxwell/static/js/2.b31e6743.chunk.js.map",
+    "static/js/3.b7cd0ce5.chunk.js": "/hollymaxwell/static/js/3.b7cd0ce5.chunk.js",
+    "static/js/3.b7cd0ce5.chunk.js.map": "/hollymaxwell/static/js/3.b7cd0ce5.chunk.js.map",
+    "index.html": "/hollymaxwell/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/hollymaxwell/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b31e6743.chunk.js.LICENSE.txt": "/hollymaxwell/static/js/2.b31e6743.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hollymaxwell/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0411063.js",
+    "static/js/2.b31e6743.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.987b554a.chunk.js"
+  ]
+}
